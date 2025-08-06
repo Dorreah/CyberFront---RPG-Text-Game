@@ -1,0 +1,29 @@
+img{
+  border-radius: 10px;
+}
+h2{
+  font-size: 14px;
+  color: aquamarine;
+}
+h3{
+  color: grey;
+  font-size: 14px;
+}
+body{
+  background-color: black;
+  font-family: "Orbitron";
+  color: yellowgreen;
+  text-align: center;
+}
+a{
+  background-color: black;
+  font-size: 20px;
+  border: solid 1px white;
+  border-right: 3px solid violet;
+  border-bottom: 3px solid cyan;
+  padding: 10;
+  display: block;
+  text-align: center;
+  margin: 10px;
+  color: white;
+}
